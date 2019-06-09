@@ -1,23 +1,20 @@
 {
-  "name": "reveal.js",
-  "version": "3.8.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
-  "subdomain": "revealjs",
-  "main": "js/reveal.js",
+  "name": "tnc19-identitypython-eduteams",
+  "version": "0.0.1",
+  "description": "Presentation for TNC19 - IdentityPython and eduTEAMS",
+  "homepage": "https://c00kiemon5ter.github.io/tnc19-identitypython-eduteams",
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve",
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Ivan Kanakarakis",
+    "email": "ivan@sunet.se"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://c00kiemon5ter/tnc19-identitypython-eduteams.git"
   },
   "engines": {
     "node": ">=9.0.0"

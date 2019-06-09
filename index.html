@@ -26,12 +26,16 @@
 		</script>
 	</head>
 	<body>
+		<header id="tab">
+			<span class="label"></span>
+		</header>
 		<div class="reveal">
 			<div class="slides">
 				<section data-markdown="slides.md"></section>
 			</div>
 		</div>
 
+		<script>document.querySelector("#tab .label").textContent = document.title</script>
 		<script src="js/reveal.js"></script>
 		<script>
 			// More info about config & dependencies:

@@ -20,3 +20,22 @@
 	font-weight: 600;
 	text-transform: none;
 }
+
+#tab {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	border-top: 4px solid var(--tab-bg-color);
+}
+
+#tab .label {
+	float: right;
+	margin: 0 30px;
+	padding: 12px;
+	border-radius: 0px 0px 12px 12px;
+	font-family: "Gentium Basic";
+	font-size: 1.1em;
+	color: var(--tab-fg-color);
+	background: var(--tab-bg-color);
+}

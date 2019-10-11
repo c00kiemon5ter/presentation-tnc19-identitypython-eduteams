@@ -1,7 +1,7 @@
 {
-  "name": "<FIXME>",
-  "description": "Presentation for <FIXME>",
-  "homepage": "https://c00kiemon5ter.github.io/presentation-<FIXME>",
+  "name": "tnc19-identitypython-eduteams",
+  "description": "Presentation for TNC19 - IdentityPython and eduTEAMS",
+  "homepage": "https://c00kiemon5ter.github.io/presentation-tnc19-identitypython-eduteams",
   "version": "0.0.1",
   "scripts": {
     "export": "decktape https://c00kiemon5ter.github.io/presentation-$npm_package_name presentation-$npm_package_name.pdf",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://c00kiemon5ter/presentation-<FIXME>.git"
+    "url": "git://c00kiemon5ter/presentation-tnc19-identitypython-eduteams.git"
   },
   "engines": {
     "node": ">=9.0.0"

@@ -1,4 +1,4 @@
-## IdentityPython & FIXME
+## IdentityPython & eduTEAMS
 
 <small>Ivan Kanakarakis &mdash; SUNET</small>
 

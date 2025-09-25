@@ -21,7 +21,7 @@
     "node": ">=9.0.0"
   },
   "dependencies": {
-    "decktape": "^3.4.1"
+    "decktape": "^3.15.0"
   },
   "devDependencies": {
     "express": "^4.17.3",
